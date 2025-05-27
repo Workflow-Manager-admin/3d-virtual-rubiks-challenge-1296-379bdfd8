@@ -2,152 +2,164 @@
     "top_n_overall": [
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/package.json",
-            "count": 47
+            "count": 51
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/App.js",
+            "count": 10
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/package-lock.json",
             "count": 9
         },
         {
+            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/components/RubiksCube/RubiksCube.js",
+            "count": 6
+        },
+        {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/index.js",
-            "count": 3
+            "count": 5
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/README.md",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/eslint.config.mjs",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/post_process.log",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/post_process_status.lock",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/favicon.ico",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/index.html",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/logo192.png",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/logo512.png",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/manifest.json",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/robots.txt",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/App.css",
-            "count": 2
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/App.js",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/index.css",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/logo.svg",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/setupTests.js",
-            "count": 2
+            "count": 4
         },
         {
-            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/components",
-            "count": 1
+            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/components/RubiksCube/RubiksCube.css",
+            "count": 2
         }
     ],
     "top_n_last_10_min_accessed": [
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/package.json",
-            "count": 43
+            "count": 47
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/App.js",
+            "count": 7
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/index.js",
+            "count": 5
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/package-lock.json",
             "count": 4
         },
         {
-            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/index.js",
-            "count": 3
-        },
-        {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/README.md",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/eslint.config.mjs",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/post_process.log",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/post_process_status.lock",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/favicon.ico",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/index.html",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/logo192.png",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/logo512.png",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/manifest.json",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/robots.txt",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/App.css",
-            "count": 2
-        },
-        {
-            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/App.js",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/index.css",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/logo.svg",
-            "count": 2
+            "count": 4
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/setupTests.js",
+            "count": 4
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/components/RubiksCube/RubiksCube.js",
+            "count": 3
+        },
+        {
+            "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/components/RubiksCube/RubiksCube.css",
             "count": 2
         }
     ]
