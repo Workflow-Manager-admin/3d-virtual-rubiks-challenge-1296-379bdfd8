@@ -2,7 +2,7 @@
     "top_n_overall": [
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/package.json",
-            "count": 94
+            "count": 100
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/package-lock.json",
@@ -10,15 +10,15 @@
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/components/RubiksCube/RubiksCube.js",
-            "count": 20
+            "count": 21
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/App.js",
-            "count": 17
+            "count": 18
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/index.js",
-            "count": 10
+            "count": 11
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/public/favicon.ico",
@@ -78,25 +78,25 @@
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/components/RubiksCube/RubiksCube.css",
-            "count": 5
+            "count": 6
         }
     ],
     "top_n_last_10_min_accessed": [
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/package.json",
-            "count": 82
+            "count": 88
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/App.js",
-            "count": 14
+            "count": 15
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/components/RubiksCube/RubiksCube.js",
-            "count": 14
+            "count": 15
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/index.js",
-            "count": 10
+            "count": 11
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/package-lock.json",
@@ -160,7 +160,7 @@
         },
         {
             "file": "/tmp/kavia/workspace/code-generation/3d-virtual-rubiks-challenge-1296-379bdfd8/3d_virtual_rubiks_challenge/src/components/RubiksCube/RubiksCube.css",
-            "count": 5
+            "count": 6
         }
     ]
 }
