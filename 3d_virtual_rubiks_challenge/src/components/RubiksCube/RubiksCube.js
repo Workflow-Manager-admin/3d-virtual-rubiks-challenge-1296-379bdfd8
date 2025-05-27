@@ -1,13 +1,11 @@
-import React, { useRef } from 'react';
+import React from 'react';
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
 import './RubiksCube.css';
 
 // PUBLIC_INTERFACE
 const RubiksCube = () => {
-  const cubeRef = useRef();
-
-  // Placeholder for cube face colors - will be expanded in future implementations
+  // Placeholder for cube face colors
   const colors = {
     front: '#ff0000',   // Red
     back: '#ff8c00',    // Orange
@@ -17,27 +15,19 @@ const RubiksCube = () => {
     left: '#00ff00',    // Green
   };
 
-  const CubeFace = ({ position, color, rotation = [0, 0, 0] }) => (
-    <mesh position={position} rotation={rotation}>
-      <boxGeometry args={[0.95, 0.95, 0.05]} />
-      <meshStandardMaterial color={color} />
+  const SingleCubePiece = ({ position, colors }) => (
+    <mesh position={position}>
+      <boxGeometry args={[1, 1, 1]} />
+      <meshPhongMaterial color={colors.front} />
     </mesh>
-  );
-
-  const CubeCorner = ({ position, colors }) => (
-    <group position={position}>
-      <CubeFace position={[0, 0, 0.475]} color={colors.front} />
-      <CubeFace position={[0.475, 0, 0]} color={colors.right} rotation={[0, Math.PI / 2, 0]} />
-      <CubeFace position={[0, 0.475, 0]} color={colors.top} rotation={[Math.PI / 2, 0, 0]} />
-    </group>
   );
 
   const RubiksCubeModel = () => {
     return (
-      <group ref={cubeRef}>
-        {/* Initial corner piece - more pieces will be added in future implementations */}
-        <CubeCorner 
-          position={[0.5, 0.5, 0.5]} 
+      <group>
+        {/* Initial demo cube - will be expanded to full 3x3x3 */}
+        <SingleCubePiece 
+          position={[0, 0, 0]} 
           colors={{
             front: colors.front,
             right: colors.right,
@@ -50,11 +40,14 @@ const RubiksCube = () => {
 
   return (
     <div className="rubiks-cube-container">
-      <Canvas camera={{ position: [3, 3, 3], fov: 75 }}>
+      <Canvas
+        camera={{ position: [5, 5, 5], fov: 50 }}
+        style={{ background: '#1a1a1a' }}
+      >
         <ambientLight intensity={0.5} />
-        <pointLight position={[10, 10, 10]} intensity={1} />
+        <pointLight position={[10, 10, 10]} />
         <RubiksCubeModel />
-        <OrbitControls enableZoom={true} enablePan={true} />
+        <OrbitControls />
       </Canvas>
       <div className="controls">
         <button className="control-btn">Reset</button>
